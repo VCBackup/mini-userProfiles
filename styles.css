@@ -1,3 +1,14 @@
 .favorite {
     background-color: lightblue
 }
+.other-div {
+    background-color: green;
+    height: 30px;
+    width: 100%;
+}
+
+.users-div {
+    background-color: red;
+    height: 30px;
+    width: 100%;
+}
