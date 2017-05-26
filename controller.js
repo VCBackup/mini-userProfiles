@@ -6,6 +6,5 @@ function($scope, mainService){
         return $scope.users;
     };
     $scope.getUsers();
-    $scope.thisAppIsBroken = "This angular app is working";
-   
+    $scope.toggleFavorite = mainService.toggleFavorite;
 })
